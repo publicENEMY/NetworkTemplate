@@ -1,0 +1,10 @@
+2013-11-22 11:45:49.9877|INFO|WpfClient.App|App is starting up.. 
+2013-11-22 11:45:50.4417|INFO|WpfClient.MainWindow|Window Size Changed; New size: 350, 525 
+2013-11-22 11:45:50.4817|INFO|WpfClient.MainWindow|Window is loaded 
+2013-11-22 11:45:50.4817|INFO|WpfClient.MainWindow|These messages are logged in ..\..\Logs\NLogSamples.log as well. 
+2013-11-22 11:45:50.4977|INFO|WpfClient.MainWindow|I will log when I am resized 
+2013-11-22 16:12:09.3997|INFO|WpfClient.App|App is starting up.. 
+2013-11-22 16:12:09.9397|INFO|WpfClient.MainWindow|Window Size Changed; New size: 350, 525 
+2013-11-22 16:12:09.9807|INFO|WpfClient.MainWindow|Window is loaded 
+2013-11-22 16:12:09.9877|INFO|WpfClient.MainWindow|These messages are logged in ..\..\Logs\NLogSamples.log as well. 
+2013-11-22 16:12:10.0037|INFO|WpfClient.MainWindow|I will log when I am resized 

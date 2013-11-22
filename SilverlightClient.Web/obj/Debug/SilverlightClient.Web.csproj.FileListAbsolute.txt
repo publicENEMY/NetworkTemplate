@@ -1,0 +1,6 @@
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient.Web\bin\SilverlightClient.Web.dll.config
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient.Web\bin\SilverlightClient.Web.dll
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient.Web\bin\SilverlightClient.Web.pdb
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient.Web\obj\Debug\SilverlightClient.Web.csprojResolveAssemblyReference.cache
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient.Web\obj\Debug\SilverlightClient.Web.dll
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient.Web\obj\Debug\SilverlightClient.Web.pdb

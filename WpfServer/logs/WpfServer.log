@@ -1,0 +1,10 @@
+2013-11-22 11:46:02.1544|INFO|WpfServer.App|App is starting up.. 
+2013-11-22 11:46:02.4864|INFO|WpfServer.MainWindow|Window Size Changed; New size: 350, 525 
+2013-11-22 11:46:02.5274|INFO|WpfServer.MainWindow|Window is loaded 
+2013-11-22 11:46:02.5344|INFO|WpfServer.MainWindow|These messages are logged in ..\..\Logs\NLogSamples.log as well. 
+2013-11-22 11:46:02.5524|INFO|WpfServer.MainWindow|I will log when I am resized 
+2013-11-22 16:12:09.3597|INFO|WpfServer.App|App is starting up.. 
+2013-11-22 16:12:09.9457|INFO|WpfServer.MainWindow|Window Size Changed; New size: 350, 525 
+2013-11-22 16:12:09.9867|INFO|WpfServer.MainWindow|Window is loaded 
+2013-11-22 16:12:09.9867|INFO|WpfServer.MainWindow|These messages are logged in ..\..\Logs\NLogSamples.log as well. 
+2013-11-22 16:12:10.0057|INFO|WpfServer.MainWindow|I will log when I am resized 

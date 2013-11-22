@@ -1,0 +1,12 @@
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\Bin\Debug\SilverlightClient.dll
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\Bin\Debug\SilverlightClient.pdb
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\Bin\Debug\AppManifest.xaml
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\Bin\Debug\SilverlightClient.xap
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\Bin\Debug\SilverlightClientTestPage.html
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\obj\Debug\SilverlightClient.csprojResolveAssemblyReference.cache
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\obj\Debug\App.g.cs
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\obj\Debug\MainPage.g.cs
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\obj\Debug\SilverlightClient.g.resources
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\obj\Debug\SilverlightClient.dll
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\obj\Debug\SilverlightClient.pdb
+C:\Users\publicENEMY\Documents\publicENEMY\test\networkcomms.net\SilverlightClient\obj\Debug\XapCacheFile.xml
